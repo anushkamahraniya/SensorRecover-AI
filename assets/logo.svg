@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="44" viewBox="0 0 232 44">
+  <g fill="none" stroke="#344B64" stroke-width="1.8">
+    <circle cx="22" cy="22" r="15" stroke="#B8D8F0"/>
+    <path d="M22 7v30M7 22h30M11.5 11.5l21 21M32.5 11.5l-21 21" stroke="#C5E3F6" stroke-width="1.2"/>
+    <circle cx="22" cy="22" r="5.2" fill="#FFFFFF"/>
+  </g>
+  <circle cx="22" cy="22" r="2.2" fill="#344B64"/>
+  <text x="46" y="28.5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="650" fill="#344B64" letter-spacing="-0.3">SensorRecover AI</text>
+</svg>

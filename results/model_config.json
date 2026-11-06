@@ -1,0 +1,21 @@
+{
+  "hopfield_single": {
+    "beta": 8.0,
+    "free_weight": 0.05
+  },
+  "hopfield_window": {
+    "beta": 2.0,
+    "free_weight": 0.05
+  },
+  "binary": {
+    "levels": 16,
+    "n_prototypes": 32,
+    "rule": "pseudoinverse"
+  },
+  "knn_single": {
+    "n_neighbors": 10
+  },
+  "knn_window": {
+    "n_neighbors": 10
+  }
+}
